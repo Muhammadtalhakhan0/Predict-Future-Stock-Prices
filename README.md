@@ -1,6 +1,7 @@
 # Predict-Future-Stock-Prices
 
 **1: Overview**
+
 This project predicts the **next day’s closing stock price** using historical market data from Yahoo Finance.  
 It uses a **Linear Regression** model trained on features like Open, High, Low, and Volume.
 
@@ -32,7 +33,7 @@ It uses a **Linear Regression** model trained on features like Open, High, Low, 
 - Model predicts short-term stock price trends  
 - Visualization shows how close predictions are to actual prices  
 
-# 7: Conclusion
+# Conclusion
 This project demonstrates a complete end-to-end Machine Learning workflow for short-term stock price prediction.  
 Using historical data from Yahoo Finance, a Linear Regression model was trained to predict the next day’s closing price.  
 The model’s performance was evaluated using MAE and RMSE, and results were visualized to show how closely predictions match actual prices.  
